@@ -1,0 +1,8 @@
+PVSTSV,Ram Palace,surat,1,2
+PVSTSV,Ram Palace,surat,2,1
+PVSTSV,Ram Palace,surat,2,1
+shashankag,Ram Palace,surat,1,1
+rdj,temp,temp,1,1
+VS,abc,abc,3,2
+shashankag,temp1,temp1,2,1
+shashankag,p1,add1,2,1

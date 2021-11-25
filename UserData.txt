@@ -1,0 +1,17 @@
+1,shadan,sdh,gpl,2200
+1,shashank,shashankag,12345,4400
+0,Abc,Abc,Abc,2000
+0,shashank,SA,SA12,1000
+0,SA,SA123,SA123,2000
+0,Akshat,AG,AG122,1400
+1,Vidit,VD,VD123,2200
+1,Anish,AG,AG12345,1400
+0,VD,VD123,VD123,2000
+0,Arjun,AE,AE123,7900
+0,tarak ghot,PVSTSV,ultimateghot@bits,3300
+0,ridhim jain,rdj,rdj123,3600
+1,Akhil,ADev,Adev123,2000
+0,Varun,VS,VS123,1000
+1,Yugal Ghot,Sexa,tharki,6000
+1,Nipurn,npa,npa123,1900
+1,tempUser,u1,pass123,5400
